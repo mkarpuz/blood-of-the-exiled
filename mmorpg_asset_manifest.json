@@ -1,0 +1,563 @@
+[
+  {
+    "uid": "23954b0a176a497788dcd3a29204382f",
+    "name": "Low Poly Warrior",
+    "role": "warrior",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low-poly-warrior-23954b0a176a497788dcd3a29204382f",
+    "license": "CC Attribution",
+    "author": "gsantos",
+    "faceCount": 1134,
+    "priority": "bulk_character"
+  },
+  {
+    "uid": "d14eb14d83bd4e7ba7cbe443d76a10fd",
+    "name": "The Forgotten Knight",
+    "role": "main_character_knight",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/the-forgotten-knight-d14eb14d83bd4e7ba7cbe443d76a10fd",
+    "license": "CC Attribution 4.0",
+    "author": "dark_igorek",
+    "faceCount": 223719,
+    "vertexCount": 135405,
+    "priority": "main_character"
+  },
+  {
+    "uid": "404cb53601664f2d874cf83968abdbcc",
+    "name": "Warrior Female Game Character Low Poly",
+    "role": "warrior",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/warrior_female_game_character_low_poly-404cb53601664f2d874cf83968abdbcc",
+    "license": "CC Attribution",
+    "author": "Karthiknaidu97",
+    "faceCount": 3140,
+    "priority": "bulk_character",
+    "_query_index": 0,
+    "import_dimensions": [
+      1.8,
+      0.4575,
+      1.5126
+    ],
+    "scale_applied": 0.796425
+  },
+  {
+    "uid": "89f07417e7b646b18fd8f879d773c188",
+    "name": "Low poly knight",
+    "role": "knight",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low_poly_knight-89f07417e7b646b18fd8f879d773c188",
+    "license": "CC Attribution",
+    "author": "Vaporworks",
+    "faceCount": 810,
+    "priority": "bulk_character",
+    "_query_index": 1,
+    "import_dimensions": [
+      0.8776,
+      0.9817,
+      1.8
+    ],
+    "scale_applied": 0.128699
+  },
+  {
+    "uid": "51fe3f9e61a44866a06d3b124ed8a301",
+    "name": "Stone Hammer With Crystals",
+    "role": "paladin",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/stone_hammer_with_crystals-51fe3f9e61a44866a06d3b124ed8a301",
+    "license": "CC Attribution",
+    "author": "tridentcorp",
+    "faceCount": 564,
+    "priority": "bulk_character",
+    "_query_index": 3,
+    "import_dimensions": [
+      0.9788,
+      1.8,
+      0.5986
+    ],
+    "scale_applied": 0.934231
+  },
+  {
+    "uid": "378bd65658654595a4e5b3e152309385",
+    "name": "Bow - Medieval Fantasy Challenge",
+    "role": "archer",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/bow_medieval_fantasy_challenge-378bd65658654595a4e5b3e152309385",
+    "license": "CC Attribution",
+    "author": "tuturu",
+    "faceCount": 66,
+    "priority": "bulk_character",
+    "_query_index": 4,
+    "import_dimensions": [
+      1.8,
+      0.2044,
+      0.0475
+    ],
+    "scale_applied": 1.414872
+  },
+  {
+    "uid": "7ed76f06e0d3459fa71ffcb891120463",
+    "name": "Ranger",
+    "role": "ranger",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/ranger-7ed76f06e0d3459fa71ffcb891120463",
+    "license": "CC Attribution",
+    "author": "nolanfa",
+    "faceCount": 860,
+    "priority": "bulk_character",
+    "_query_index": 5,
+    "import_dimensions": [
+      0.8202,
+      0.5568,
+      1.8
+    ],
+    "scale_applied": 0.268068
+  },
+  {
+    "uid": "c3e82f7d8b954ac0ae9e265e2bad58ff",
+    "name": "Assassin",
+    "role": "rogue",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/assassin-c3e82f7d8b954ac0ae9e265e2bad58ff",
+    "license": "CC Attribution",
+    "author": "TaKiBeAtZ",
+    "faceCount": 4752,
+    "priority": "bulk_character",
+    "_query_index": 6,
+    "import_dimensions": [
+      0.3098,
+      0.299,
+      1.8
+    ],
+    "scale_applied": 0.00038
+  },
+  {
+    "uid": "5a21c8a929e44019b10736b2af96ef4d",
+    "name": "Low Poly Wizard",
+    "role": "wizard",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low_poly_wizard-5a21c8a929e44019b10736b2af96ef4d",
+    "license": "CC Attribution",
+    "author": "itayron10",
+    "faceCount": 376,
+    "priority": "bulk_character",
+    "_query_index": 7,
+    "import_dimensions": [
+      0.8962,
+      0.6855,
+      1.8
+    ],
+    "scale_applied": 0.452178
+  },
+  {
+    "uid": "84cd6685487949bca626bcfc244d2e12",
+    "name": "Base Mesh Low Poly Character",
+    "role": "mage",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/base_mesh_low_poly_character-84cd6685487949bca626bcfc244d2e12",
+    "license": "CC Attribution",
+    "author": "YOPN",
+    "faceCount": 906,
+    "priority": "bulk_character",
+    "_query_index": 8,
+    "import_dimensions": [
+      1.153,
+      0.3729,
+      1.8
+    ],
+    "scale_applied": 0.807848
+  },
+  {
+    "uid": "d227dedc852b4955a5d1fc0a500b70d4",
+    "name": "Air Genasi Monk",
+    "role": "monk",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/air_genasi_monk-d227dedc852b4955a5d1fc0a500b70d4",
+    "license": "CC Attribution",
+    "author": "TheOneMissing",
+    "faceCount": 476,
+    "priority": "bulk_character",
+    "_query_index": 10,
+    "import_dimensions": [
+      1.6941,
+      1.8,
+      1.6151
+    ],
+    "scale_applied": 0.25926
+  },
+  {
+    "uid": "a4b94adcbc8449c6a0a9599f234c994a",
+    "name": "battle axe low poly",
+    "role": "barbarian",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/battle_axe_low_poly-a4b94adcbc8449c6a0a9599f234c994a",
+    "license": "CC Attribution",
+    "author": "excellenthe",
+    "faceCount": 864,
+    "priority": "bulk_character",
+    "_query_index": 11,
+    "import_dimensions": [
+      0.9045,
+      0.2641,
+      1.8
+    ],
+    "scale_applied": 0.179415
+  },
+  {
+    "uid": "dcacae34df4846a68b49a8a29c80aed3",
+    "name": "Low Poly Necromancer Character",
+    "role": "necromancer",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low_poly_necromancer_character-dcacae34df4846a68b49a8a29c80aed3",
+    "license": "CC Attribution",
+    "author": "Doingyman1",
+    "faceCount": 2894,
+    "priority": "bulk_character",
+    "_query_index": 12,
+    "import_dimensions": [
+      1.1854,
+      0.4362,
+      1.8
+    ],
+    "scale_applied": 22.158704
+  },
+  {
+    "uid": "b17f2e022a1e4790b9feb770b0740029",
+    "name": "Dwarf Character",
+    "role": "dwarf",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/dwarf_character-b17f2e022a1e4790b9feb770b0740029",
+    "license": "CC Attribution",
+    "author": "tanguydespat",
+    "faceCount": 1672,
+    "priority": "bulk_character",
+    "_query_index": 13,
+    "import_dimensions": [
+      1.1882,
+      0.5597,
+      1.8
+    ],
+    "scale_applied": 0.377681
+  },
+  {
+    "uid": "15f29bd55ca84d908aa2228de3a862e2",
+    "name": "Low poly elf female base",
+    "role": "elf",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low_poly_elf_female_base-15f29bd55ca84d908aa2228de3a862e2",
+    "license": "CC Attribution",
+    "author": "loverett",
+    "faceCount": 668,
+    "priority": "bulk_character",
+    "_query_index": 14,
+    "import_dimensions": [
+      1.5911,
+      0.3108,
+      1.8
+    ],
+    "scale_applied": 0.46827
+  },
+  {
+    "uid": "51387ff3f0344272a2806d49e304215d",
+    "name": "LowPoly Style Exploration#2",
+    "role": "orc",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/lowpoly_style_exploration_2-51387ff3f0344272a2806d49e304215d",
+    "license": "CC Attribution",
+    "author": "rmorais",
+    "faceCount": 3744,
+    "priority": "bulk_creature",
+    "_query_index": 15,
+    "import_dimensions": [
+      1.3366,
+      0.9692,
+      1.8
+    ],
+    "scale_applied": 1.060258
+  },
+  {
+    "uid": "dc643e6067794cc988d94a72181bd48c",
+    "name": "Armored Goblin Warrior Low Poly Game Ready",
+    "role": "orc_warrior",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/armored_goblin_warrior_low_poly_game_ready-dc643e6067794cc988d94a72181bd48c",
+    "license": "CC Attribution",
+    "author": "Hdjusj",
+    "faceCount": 14545,
+    "priority": "bulk_creature",
+    "_query_index": 16,
+    "import_dimensions": [
+      0.4861,
+      1.3349,
+      1.8
+    ],
+    "scale_applied": 1.8
+  },
+  {
+    "uid": "e359133a65e54f438da60ea684c1590a",
+    "name": "Szkielet wojownik /  Skeleton Warrior",
+    "role": "skeleton_warrior",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/szkielet_wojownik_skeleton_warrior-e359133a65e54f438da60ea684c1590a",
+    "license": "CC Attribution",
+    "author": "tigtrzyer",
+    "faceCount": 756,
+    "priority": "bulk_creature",
+    "_query_index": 20,
+    "import_dimensions": [
+      1.2506,
+      1.0757,
+      1.8
+    ],
+    "scale_applied": 0.96
+  },
+  {
+    "uid": "0d60cd9d07b64d3b9b45239911e23811",
+    "name": "Low Poly Zombie",
+    "role": "zombie",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low_poly_zombie-0d60cd9d07b64d3b9b45239911e23811",
+    "license": "CC Attribution",
+    "author": "meteyektay",
+    "faceCount": 388,
+    "priority": "bulk_creature",
+    "_query_index": 21,
+    "import_dimensions": [
+      0.9504,
+      1.3048,
+      1.8
+    ],
+    "scale_applied": 1.10574
+  },
+  {
+    "uid": "fd0084763faf4affaf4ef184ad58cde4",
+    "name": "Darkling Ball (animated)",
+    "role": "ghost",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/darkling_ball_animated-fd0084763faf4affaf4ef184ad58cde4",
+    "license": "CC Attribution",
+    "author": "diegoichinose",
+    "faceCount": 284,
+    "priority": "bulk_creature",
+    "_query_index": 22,
+    "import_dimensions": [
+      1.8,
+      1.7996,
+      1.6797
+    ],
+    "scale_applied": 0.008973
+  },
+  {
+    "uid": "5892390b0f2f49fab9b066c5fc8c3c3a",
+    "name": "Demon Male Base Mesh",
+    "role": "demon",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/demon_male_base_mesh-5892390b0f2f49fab9b066c5fc8c3c3a",
+    "license": "CC Attribution",
+    "author": "mesh-base",
+    "faceCount": 4312,
+    "priority": "bulk_creature",
+    "_query_index": 23,
+    "import_dimensions": [
+      2.0307,
+      0.4357,
+      2.4
+    ],
+    "scale_applied": 1.079472
+  },
+  {
+    "uid": "be9ae5737b614ee78071f81384c2e2e1",
+    "name": "Rock Golem",
+    "role": "golem",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/rock_golem-be9ae5737b614ee78071f81384c2e2e1",
+    "license": "CC Attribution",
+    "author": "thecore37",
+    "faceCount": 740,
+    "priority": "bulk_creature",
+    "_query_index": 24,
+    "import_dimensions": [
+      1.1834,
+      2.4,
+      2.2796
+    ],
+    "scale_applied": 1.2
+  },
+  {
+    "uid": "93c68a096e5145439aaadc27669850e7",
+    "name": "Troll",
+    "role": "troll",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/troll-93c68a096e5145439aaadc27669850e7",
+    "license": "CC Attribution",
+    "author": "Cristobal_Fermandois",
+    "faceCount": 1008,
+    "priority": "bulk_creature",
+    "_query_index": 25,
+    "import_dimensions": [
+      2.1774,
+      2.0007,
+      2.4
+    ],
+    "scale_applied": 1.098582
+  },
+  {
+    "uid": "0edc88ad27fc4fab853397de7ce0d0cc",
+    "name": "Boar - Animated Low Poly",
+    "role": "boar",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/boar_animated_low_poly-0edc88ad27fc4fab853397de7ce0d0cc",
+    "license": "CC Attribution",
+    "author": "WildPoly3D",
+    "faceCount": 1512,
+    "priority": "bulk_creature",
+    "_query_index": 27,
+    "import_dimensions": [
+      0.4035,
+      1.1,
+      0.7784
+    ],
+    "scale_applied": 0.665544
+  },
+  {
+    "uid": "1a2e289331494bb1bee06d539c069096",
+    "name": "Half-Spider Spider",
+    "role": "spider",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/half_spider_spider-1a2e289331494bb1bee06d539c069096",
+    "license": "CC Attribution",
+    "author": "cupiniki",
+    "faceCount": 477,
+    "priority": "bulk_creature",
+    "_query_index": 29,
+    "import_dimensions": [
+      0.5161,
+      0.6,
+      0.5899
+    ],
+    "scale_applied": 0.258067
+  },
+  {
+    "uid": "c1e35c7ac4374c778f78025717694675",
+    "name": "Low-poly Rhamphorhynchus idle",
+    "role": "bat",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low_poly_rhamphorhynchus_idle-c1e35c7ac4374c778f78025717694675",
+    "license": "CC Attribution",
+    "author": "xiaorobear",
+    "faceCount": 656,
+    "priority": "bulk_creature",
+    "_query_index": 30,
+    "import_dimensions": [
+      0.6,
+      0.4107,
+      0.0553
+    ],
+    "scale_applied": 7.407448
+  },
+  {
+    "uid": "25e9d86a651c4de0b303f6b754b649f8",
+    "name": "Low Poly Slime Animated",
+    "role": "slime",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/low_poly_slime_animated-25e9d86a651c4de0b303f6b754b649f8",
+    "license": "CC Attribution",
+    "author": "baltazo",
+    "faceCount": 96,
+    "priority": "bulk_creature",
+    "_query_index": 31,
+    "import_dimensions": [
+      0.6,
+      0.6,
+      0.1682
+    ],
+    "scale_applied": 0.118511
+  },
+  {
+    "id": "grass_medium_01",
+    "name": "Grass Medium 01",
+    "kind": "models",
+    "role": "environment_ground_cover",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/grass_medium_01"
+  },
+  {
+    "id": "rock_moss_set_02",
+    "name": "Rock Moss Set 02",
+    "kind": "models",
+    "role": "environment_rocks",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/rock_moss_set_02"
+  },
+  {
+    "id": "rock_moss_set_01",
+    "name": "Rock Moss Set 01",
+    "kind": "models",
+    "role": "environment_rocks",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/rock_moss_set_01"
+  },
+  {
+    "id": "fern_02",
+    "name": "Fern 02",
+    "kind": "models",
+    "role": "environment_plants",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/fern_02"
+  },
+  {
+    "id": "fir_tree_01",
+    "name": "Fir Tree 01",
+    "kind": "models",
+    "role": "environment_tree",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/fir_tree_01"
+  },
+  {
+    "id": "fir_sapling_medium",
+    "name": "Fir Sapling Medium",
+    "kind": "models",
+    "role": "environment_tree",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/fir_sapling_medium"
+  },
+  {
+    "id": "dry_branches_medium_01",
+    "name": "Dry Branches Medium 01",
+    "kind": "models",
+    "role": "environment_ground_cover",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/dry_branches_medium_01"
+  },
+  {
+    "id": "pine_tree_01",
+    "name": "Pine Tree 01",
+    "kind": "models",
+    "role": "environment_tree",
+    "format": "gltf",
+    "source": "PolyHaven",
+    "license": "CC0",
+    "author": "Poly Haven",
+    "url": "https://polyhaven.com/a/pine_tree_01"
+  }
+]
