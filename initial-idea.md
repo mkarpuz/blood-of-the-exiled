@@ -3,7 +3,22 @@
 1. An open-world, MMO-style action RPG with a cinematic camera and high-quality animations, playable in the browser.
 2. It will include characters, leveling, skills, items, environments, cities, nature, monsters, bosses, and NPCs.
 3. The goal is to help people learn things such as German, Python, HTML, CSS, and JavaScript. In practice, it can be used to learn anything I or anyone else wants to study.
-4. The existence of a large learning material repo that is fed to the game. 
+4. The existence of a large learning material repo that is fed to the game.
+
+# Core Goal of the Game
+
+1. Provide a high-quality MMORPG gaming experience.
+
+2. The game uses materials provided by users to generate in-game mechanics. These learning materials shape the game mechanics rather than the story or core gameplay, and they affect the user inputs required for in-game effects and actions.
+
+3. Learn whatever you want along the way, through user inputs that may include, but are not limited to, quiz-like multiple-choice questions, direct voice responses, written text inputs, and mouse clicks.
+
+
+# Tech Stack
+
+- 3D assets are modeled in Blender and exported in the .glb (glTF) format.
+
+- Three.js is used as the frontend 3D engine to render and integrate those .glb files into the game world.
 
 # Qualities
 

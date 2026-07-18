@@ -1,0 +1,10 @@
+Der Wald bedeutet forest.
+Der Baum bedeutet tree.
+Der Pilz bedeutet mushroom.
+Das Kraut bedeutet herb.
+Der Hirsch bedeutet deer.
+Das Kaninchen bedeutet rabbit.
+Der Schutzschild bedeutet shield.
+Die Zuflucht bedeutet refuge.
+Freiheit bedeutet freedom.
+Wissen bedeutet knowledge.

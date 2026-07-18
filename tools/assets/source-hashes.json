@@ -1,0 +1,90 @@
+{
+  "source": "/Users/karpuz/Documents/boe/assets",
+  "generatedAt": "2026-07-18T03:33:55.738Z",
+  "files": {
+    "blender/ mmorpg_concord.blend1": {
+      "sha256": "b090eb1d5c5686381271515447d507efa051e54fb225de5f52540ae0b4618449",
+      "bytes": 96572
+    },
+    "blender/city.blend": {
+      "sha256": "e3bc5673bd6988f9437b442bb47469bed33081687db0a6f0455c6e409a05f0a0",
+      "bytes": 68748046
+    },
+    "blender/city.blend1": {
+      "sha256": "2a30de505f022a256c02c72a477ab13079b4fb9648c240df4c54401f2912989f",
+      "bytes": 68748046
+    },
+    "blender/mmorpg_asset_manifest.json": {
+      "sha256": "32ca3fae22640bc85564e5e63dad6228455e694867687e946af83295090a0f76",
+      "bytes": 38683
+    },
+    "blender/mmorpg_concord_structures.blend": {
+      "sha256": "78cfe3b49b6fe07329a82658c695c841201eab1256f8426296ec2103691295e3",
+      "bytes": 30493686
+    },
+    "blender/mmorpg_concord_structures.blend1": {
+      "sha256": "4f0391689d4fef21cae3cf12ab0a5071d9160e9f1813e9399b7adc1161d8b39f",
+      "bytes": 30492175
+    },
+    "blender/mmorpg_concord.blend": {
+      "sha256": "a9ce9f8ce1c647377c501c8900cd47a9fcee81eba89a3b2840abbf57aff1e83a",
+      "bytes": 34520020
+    },
+    "blender/mmorpg_creatures_enemies.blend": {
+      "sha256": "172c0d5d6bd925ebc241e8900b710da42839e171e53743d94492d9102e59d301",
+      "bytes": 31027865
+    },
+    "blender/mmorpg_creatures.blend": {
+      "sha256": "ad056280ed6aed1914d4fbc36a0685de1c03913461755e04d9cf7184b814a23f",
+      "bytes": 15636804
+    },
+    "blender/mmorpg_environment_props.blend": {
+      "sha256": "dbe93457ae5aac33945fd31447305cd020c5debf4f566e01f135fa8207a77387",
+      "bytes": 1056004694
+    },
+    "blender/mmorpg_free_territory_structures.blend": {
+      "sha256": "bf96ad9e6b4007b3b5c64e1f55bd425e4a4772dd020ee87487bc85c10fc57757",
+      "bytes": 39109534
+    },
+    "blender/mmorpg_free_territory_structures.blend1": {
+      "sha256": "96d1d4de78b7dbea3df026f84dcee17fa37362a51e61a4cee0dbc4f304366526",
+      "bytes": 39108275
+    },
+    "blender/mmorpg_gear.blend": {
+      "sha256": "24b9761feeb2a0b82cc09b18fde0ae8dc269532dd5b4959d49832394482b2304",
+      "bytes": 23088566
+    },
+    "blender/mmorpg_gear.blend .blend": {
+      "sha256": "a162d3f6e88d42fcbc26e93e78c44dfe6c50832ab09c7c98bc7de4eab55a2a4f",
+      "bytes": 23071552
+    },
+    "blender/mmorpg_gear.blend .blend1": {
+      "sha256": "bc53d4edd6a92dc4c29f7fa19bb83eaebd7190932f744b4b972e8c090403ae55",
+      "bytes": 96864
+    },
+    "blender/mmorpg_gear.blend1": {
+      "sha256": "7a5ec3b49f133f163f30ba2b98b0f1a72df8edb3f6a2b3f7ce443fefbb899c7f",
+      "bytes": 23088537
+    },
+    "blender/mmorpg_great_forest_props.blend": {
+      "sha256": "1e34875bb3c5c91d2d53155ff99b427176756c4835485b92791b286dafc28b54",
+      "bytes": 114473786
+    },
+    "blender/mmorpg_main_characters.blend": {
+      "sha256": "8a59551af3052bc2b9d62b29c2b9dfda2424cc584628afef4d130a4f337e3f29",
+      "bytes": 99422556
+    },
+    "blender/mmorpg_npcs.blend": {
+      "sha256": "ccf198cea3ce018172c82827474e64bb44517f2c95a866b75c00a9c3b9ffcbaa",
+      "bytes": 20698231
+    },
+    "blender/mmorpg_passive_wildlife.blend": {
+      "sha256": "8b2c01bf95c74e00fd63d86124318e217b16753893096ba8942ca8ca8f1aeaee",
+      "bytes": 2414947
+    },
+    "blender/README.md": {
+      "sha256": "b891a70317c1bfc4ba749af857f9f9611cc6beab3fd549d2260d8c344bd99288",
+      "bytes": 6656
+    }
+  }
+}
